@@ -8,7 +8,7 @@ model_training = st.container()
 # Seitenmenü in der Sidebar
 st.sidebar.title("Team-Klausur PG D/SX")
 
-menu = st.sidebar.radio("Wähle eine Folie:", 
+menu = st.sidebar.radio("Wähle eine Folien:", 
                         ("Cloud-Computing-Grundlagen", 
                          "Cloud-Deployement-Modelle",
                          "Cloud-Service-Modelle", 
