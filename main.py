@@ -126,7 +126,7 @@ elif menu == "Cloud-Service-Modelle":
         st.write("")  # Leere Zeile als Abstand
         st.image("data/Pizza-as-a-Service-Software.png", caption="Software as a Pizza-Service", use_column_width=True)
 
-
+    st.image("data/Servicemodelle.PNG", caption="Cloud Servicemodelle", use_column_width=True)
     st.video("https://youtu.be/M988_fsOSWo?t=127", start_time=196, end_time=304)
 
 # Vorteile von Cloud Computing
